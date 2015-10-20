@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "FactIntent",
+      "slots": [
+      {
+        "name" : "Award",
+        "type": "AWARD"
+      }
+     ]
+    },
+   {
+      "intent": "HelpIntent",
+      "slots": [ ]
+    }
+  ]
+}
